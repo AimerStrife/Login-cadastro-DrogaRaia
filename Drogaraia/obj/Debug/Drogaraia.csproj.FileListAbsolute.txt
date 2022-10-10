@@ -1,0 +1,13 @@
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\bin\Debug\Drogaraia.exe.config
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\bin\Debug\Drogaraia.exe
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\bin\Debug\Drogaraia.pdb
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\obj\Debug\Drogaraia.csproj.AssemblyReference.cache
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\obj\Debug\Drogaraia.csproj.SuggestedBindingRedirects.cache
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\obj\Debug\Drogaraia.Form1.resources
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\obj\Debug\Drogaraia.Properties.Resources.resources
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\obj\Debug\Drogaraia.csproj.GenerateResource.cache
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\obj\Debug\Drogaraia.csproj.CoreCompileInputs.cache
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\obj\Debug\Drogaraia.exe
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\obj\Debug\Drogaraia.pdb
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\obj\Debug\Drogaraia.Form2.resources
+C:\Users\cinco\source\repos\Drogaraia\Drogaraia\obj\Debug\Drogaraia.Form3.resources
